@@ -1,8 +1,8 @@
-# auto_twitter_management
+# auto_twitter_management.py
 
-## 「Twitterアカウントを運用する上で必要なことを自動化できます」
+### 「Twitterアカウントを運用する上で必要なことを自動化できます」
 
-### できること
+#### できること
 
 
 【いいね・リプライに関して】
